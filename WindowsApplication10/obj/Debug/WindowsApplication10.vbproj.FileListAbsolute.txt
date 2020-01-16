@@ -1,0 +1,11 @@
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+c:\users\furkan\documents\visual studio 2015\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
